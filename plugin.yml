@@ -10,4 +10,4 @@ commands:
 permissions:
   squadnpc.use:
     description: Allows using the squad and goat horn
-    default: false
+    default: true
