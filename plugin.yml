@@ -1,0 +1,13 @@
+name: SquadNPC
+version: 0.1.0
+main: me.squadnpc.SquadNPCPlugin
+api-version: '1.21'
+author: ChatGPT
+commands:
+  squad:
+    description: Toggle your squad or show help
+    usage: /squad
+permissions:
+  squadnpc.use:
+    description: Allows using the squad and goat horn
+    default: false
